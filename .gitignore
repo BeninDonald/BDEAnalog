@@ -1,0 +1,9 @@
+# Whitelist: ignore everything, then allow only the files below
+*
+!*/
+
+!/.gitignore
+!/README.md
+
+# PLUS+1 GUIDE project files (any folder)
+!*.p1p
